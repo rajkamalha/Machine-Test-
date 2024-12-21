@@ -1,0 +1,76 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color:transparent;
+    
+  }
+  
+  .left-section {
+    display: flex;
+    align-items: center;
+  
+    border-radius: 25px;
+    margin-left: 14px;
+    background-color: #d4d4d4;
+   
+
+  }
+  
+  .logo-circle {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .company-name {
+    margin-left: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #979393;
+  }
+  
+  .center-section {
+    display: flex;
+    align-items: center;
+    
+    border-radius: 25px;
+  }
+  
+  .search-input {
+    padding: 8px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+    border-radius: 35px;
+  }
+  
+  .search-button {
+    padding: 8px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+  }
+  
+  .right-section {
+    font-size: 16px;
+    color: #9c9595;
+  }
+  
+  .content {
+    margin: 20px;
+    font-size: 18px;
+    color: #333;
+  }
+  
